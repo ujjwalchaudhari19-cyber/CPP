@@ -9,5 +9,15 @@ int main(){
     index++;
   }
 
+  do{
+    cout<<"Hello"<<endl;
+    return 1;
+  }
+  while (index==6);
+  {
+    cout<<"Nothing"<<endl;
+  }
+  
+
   return 0;
 } 
