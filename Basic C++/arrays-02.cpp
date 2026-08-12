@@ -18,5 +18,6 @@ int main(){
   average = sum/count;
   cout << "\nTheir average: "<< average << endl;
 
+  
   return 0;
 }
